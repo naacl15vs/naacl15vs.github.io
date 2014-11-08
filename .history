@@ -1,0 +1,15 @@
+2014-11-08.20-39-47.Shays-MacBook-Pro.local ls -l
+2014-11-08.20-39-49.Shays-MacBook-Pro.local mkdir backup
+2014-11-08.20-39-52.Shays-MacBook-Pro.local cp * backup
+2014-11-08.20-39-55.Shays-MacBook-Pro.local ls -l
+2014-11-08.20-39-57.Shays-MacBook-Pro.local ls backup
+2014-11-08.20-39-58.Shays-MacBook-Pro.local ls -l
+2014-11-08.20-40-00.Shays-MacBook-Pro.local git up
+2014-11-08.20-40-04.Shays-MacBook-Pro.local git pull
+2014-11-08.20-41-06.Shays-MacBook-Pro.local vi org.html 
+2014-11-08.20-41-10.Shays-MacBook-Pro.local history | grep git
+2014-11-08.20-41-15.Shays-MacBook-Pro.local git commit -m commit
+2014-11-08.20-41-16.Shays-MacBook-Pro.local git add .
+2014-11-08.20-41-24.Shays-MacBook-Pro.local history | grep git
+2014-11-08.20-41-27.Shays-MacBook-Pro.local cat ../cmd.txt
+2014-11-08.20-41-38.Shays-MacBook-Pro.local git push -u origin master
