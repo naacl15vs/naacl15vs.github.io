@@ -13,3 +13,10 @@
 2014-11-08.20-41-24.Shays-MacBook-Pro.local history | grep git
 2014-11-08.20-41-27.Shays-MacBook-Pro.local cat ../cmd.txt
 2014-11-08.20-41-38.Shays-MacBook-Pro.local git push -u origin master
+2014-11-08.20-41-41.Shays-MacBook-Pro.local git add .
+2014-11-08.20-41-45.Shays-MacBook-Pro.local git commit -m commit
+2014-11-08.20-41-55.Shays-MacBook-Pro.local git push -u origin master
+2014-11-08.20-42-05.Shays-MacBook-Pro.local mkdir ../backup
+2014-11-08.20-42-07.Shays-MacBook-Pro.local cp * ../backup
+2014-11-08.20-42-09.Shays-MacBook-Pro.local ls -l
+2014-11-08.20-42-14.Shays-MacBook-Pro.local open index.html
