@@ -20,3 +20,7 @@
 2014-11-08.20-42-07.Shays-MacBook-Pro.local cp * ../backup
 2014-11-08.20-42-09.Shays-MacBook-Pro.local ls -l
 2014-11-08.20-42-14.Shays-MacBook-Pro.local open index.html
+2015-03-27.21-04-09.Shays-MacBook-Pro.local ls -l
+2015-03-27.21-04-36.Shays-MacBook-Pro.local vi index.html 
+2015-03-27.21-04-42.Shays-MacBook-Pro.local cat ../../cmd.txt
+2015-03-27.21-04-45.Shays-MacBook-Pro.local cat ../cmd.txt
