@@ -58,3 +58,14 @@
 2015-04-15.10-55-04.Shays-MacBook-Pro.local git push -u origin master
 2015-04-15.10-55-07.Shays-MacBook-Pro.local git commit -m commit
 2015-04-15.10-55-13.Shays-MacBook-Pro.local git push -u origin master
+2015-04-15.10-55-16.Shays-MacBook-Pro.local git add .
+2015-04-15.10-55-18.Shays-MacBook-Pro.local git commit -m commit
+2015-04-15.10-55-22.Shays-MacBook-Pro.local git push -u origin master
+2015-04-15.10-56-35.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-56-36.Shays-MacBook-Pro.local open index.html h
+2015-04-15.10-56-38.Shays-MacBook-Pro.local open index.html 
+2015-04-15.10-56-56.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-57-04.Shays-MacBook-Pro.local open index.html 
+2015-04-15.10-57-28.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-58-06.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-58-17.Shays-MacBook-Pro.local vi index.html 
