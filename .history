@@ -24,3 +24,37 @@
 2015-03-27.21-04-36.Shays-MacBook-Pro.local vi index.html 
 2015-03-27.21-04-42.Shays-MacBook-Pro.local cat ../../cmd.txt
 2015-03-27.21-04-45.Shays-MacBook-Pro.local cat ../cmd.txt
+2015-03-27.21-04-51.Shays-MacBook-Pro.local git add .
+2015-03-27.21-04-51.Shays-MacBook-Pro.local git commit -m "first commit"
+2015-03-27.21-04-53.Shays-MacBook-Pro.local git add.
+2015-03-27.21-04-53.Shays-MacBook-Pro.local git add 
+2015-03-27.21-05-05.Shays-MacBook-Pro.local git push -u origin master
+2015-03-28.11-34-07.Shays-MacBook-Pro.local git push -u origin master
+2015-03-28.11-34-07.Shays-MacBook-Pro.local git push -u origin master
+2015-03-28.11-34-08.Shays-MacBook-Pro.local git push -u origin master
+2015-04-15.10-50-41.Shays-MacBook-Pro.local ls -l
+2015-04-15.10-50-43.Shays-MacBook-Pro.local ls -l
+2015-04-15.10-50-48.Shays-MacBook-Pro.local ls -lt ~/Downloads/ | head
+2015-04-15.10-50-57.Shays-MacBook-Pro.local mv ~/Downloads/Textkernel.jpg textkernel.jpg
+2015-04-15.10-52-01.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-52-05.Shays-MacBook-Pro.local open index.html 
+2015-04-15.10-52-19.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-52-22.Shays-MacBook-Pro.local open index.html 
+2015-04-15.10-52-29.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-52-30.Shays-MacBook-Pro.local open index.html 
+2015-04-15.10-52-42.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-53-09.Shays-MacBook-Pro.local git add textkernel.jpg 
+2015-04-15.10-53-12.Shays-MacBook-Pro.local ls -l
+2015-04-15.10-53-19.Shays-MacBook-Pro.local cat ../cmd.txt 
+2015-04-15.10-53-24.Shays-MacBook-Pro.local git commit -m "first commit"
+2015-04-15.10-53-31.Shays-MacBook-Pro.local git push -u origin master
+2015-04-15.10-54-18.Shays-MacBook-Pro.local git push -u origin master
+2015-04-15.10-54-20.Shays-MacBook-Pro.local ls -lt ~/Downloads/
+2015-04-15.10-54-28.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-54-31.Shays-MacBook-Pro.local open index.html 
+2015-04-15.10-54-47.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-54-49.Shays-MacBook-Pro.local open index.html 
+2015-04-15.10-54-57.Shays-MacBook-Pro.local vi index.html 
+2015-04-15.10-55-04.Shays-MacBook-Pro.local git push -u origin master
+2015-04-15.10-55-07.Shays-MacBook-Pro.local git commit -m commit
+2015-04-15.10-55-13.Shays-MacBook-Pro.local git push -u origin master
