@@ -75,3 +75,11 @@
 2015-04-15.10-58-28.Shays-MacBook-Pro.local git push -u origin master
 2015-04-15.10-59-01.Shays-MacBook-Pro.local vi index.html 
 2015-04-15.10-59-04.Shays-MacBook-Pro.local open index.html 
+2015-04-15.10-59-08.Shays-MacBook-Pro.local git add .
+2015-04-15.10-59-11.Shays-MacBook-Pro.local git commit -m commit
+2015-04-15.10-59-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-20.23-32-18.Shays-MacBook-Pro.local ls -l
+2015-04-20.23-32-25.Shays-MacBook-Pro.local vi index.html 
+2015-04-20.23-32-27.Shays-MacBook-Pro.local cat ../cmd.txt
+2015-04-20.23-32-33.Shays-MacBook-Pro.local git commit -m "first commit"
+2015-04-20.23-32-46.Shays-MacBook-Pro.local git push -u origin master
