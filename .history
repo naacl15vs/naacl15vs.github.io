@@ -102,3 +102,10 @@
 2015-04-22.11-25-26.Shays-MacBook-Pro.local vi schedule.html 
 2015-04-22.11-25-39.Shays-MacBook-Pro.local ls -l
 2015-04-22.11-25-47.Shays-MacBook-Pro.local cat ../cmd.txt
+2015-04-22.11-25-49.Shays-MacBook-Pro.local git add .
+2015-04-22.11-25-54.Shays-MacBook-Pro.local git commit -m "first commit"
+2015-04-22.11-25-56.Shays-MacBook-Pro.local git add .
+2015-04-22.11-26-04.Shays-MacBook-Pro.local git push -u origin master
+2015-04-22.11-26-33.Shays-MacBook-Pro.local vi schedule.html 
+2015-04-22.11-26-34.Shays-MacBook-Pro.local vi schedule.html 
+2015-04-22.11-26-57.Shays-MacBook-Pro.local vi *.html
