@@ -109,3 +109,12 @@
 2015-04-22.11-26-33.Shays-MacBook-Pro.local vi schedule.html 
 2015-04-22.11-26-34.Shays-MacBook-Pro.local vi schedule.html 
 2015-04-22.11-26-57.Shays-MacBook-Pro.local vi *.html
+2015-04-22.11-26-59.Shays-MacBook-Pro.local git add .
+2015-04-22.11-27-02.Shays-MacBook-Pro.local git commit -m commit
+2015-04-22.11-27-08.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-23-19.Shays-MacBook-Pro.local ls -l
+2015-04-25.17-24-37.Shays-MacBook-Pro.local vi speakers.html 
+2015-04-25.17-24-39.Shays-MacBook-Pro.local open speakers.html 
+2015-04-25.17-24-45.Shays-MacBook-Pro.local open speakers.html 
+2015-04-25.17-26-20.Shays-MacBook-Pro.local vi speakers.html 
+2015-04-25.17-26-22.Shays-MacBook-Pro.local cat ../cmd.txt
