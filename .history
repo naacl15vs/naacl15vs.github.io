@@ -118,3 +118,29 @@
 2015-04-25.17-24-45.Shays-MacBook-Pro.local open speakers.html 
 2015-04-25.17-26-20.Shays-MacBook-Pro.local vi speakers.html 
 2015-04-25.17-26-22.Shays-MacBook-Pro.local cat ../cmd.txt
+2015-04-25.17-26-25.Shays-MacBook-Pro.local git add .
+2015-04-25.17-26-28.Shays-MacBook-Pro.local git commit -m "commit"
+2015-04-25.17-26-35.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-15.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-25.17-27-16.Shays-MacBook-Pro.local git push -u origin master
+2015-04-30.20-52-22.Shays-MacBook-Pro.local ls -l
+2015-04-30.20-52-57.Shays-MacBook-Pro.local vi speakers.html 
+2015-04-30.20-53-00.Shays-MacBook-Pro.local cat ../cmd.txt
+2015-04-30.20-53-09.Shays-MacBook-Pro.local git commit -m "first commit"
