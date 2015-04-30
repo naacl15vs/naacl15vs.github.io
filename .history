@@ -144,3 +144,7 @@
 2015-04-30.20-52-57.Shays-MacBook-Pro.local vi speakers.html 
 2015-04-30.20-53-00.Shays-MacBook-Pro.local cat ../cmd.txt
 2015-04-30.20-53-09.Shays-MacBook-Pro.local git commit -m "first commit"
+2015-04-30.20-53-11.Shays-MacBook-Pro.local git add .
+2015-04-30.20-53-12.Shays-MacBook-Pro.local git commit -m "first commit"
+2015-04-30.20-53-21.Shays-MacBook-Pro.local git push -u origin master
+2015-04-30.20-54-03.Shays-MacBook-Pro.local vi speakers.html 
